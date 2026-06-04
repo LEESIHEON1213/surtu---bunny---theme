@@ -1,190 +1,190 @@
 {
-    "name": "Surtr — Ember Pixel",
-    "description": "Arknights Surtr pixel art theme. Dark volcanic palette with ember glow accents. DARK MODE REQUIRED.",
-    "authors": [
-        {
-            "name": "EMAG"
-        }
-    ],
-    "spec": 2,
-    "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#FFD0A0"
-        ],
-        "HEADER_SECONDARY": [
-            "#CC4A1A"
-        ],
-        "TEXT_NORMAL": [
-            "#F0C090"
-        ],
-        "TEXT_MUTED": [
-            "#7A4A2A"
-        ],
-        "TEXT_LINK": [
-            "#FF8C3A"
-        ],
-        "TEXT_DANGER": [
-            "#E03A1A"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#CC7A4A"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#FF9A50"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#FFD070"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#5A3A2A"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#120600"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#1A0A02"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#0E0400"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#160800"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#8B3020"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#0A0300"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#120600"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#1A0A02"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#1A0A02"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#3D150040"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#1E0A0220"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#5A2A1030"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#7A3A1A40"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#8B3020"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#2A1008"
-        ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-            "#2A1008"
-        ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "transparent"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#1E0C04"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#7A4A2A"
-        ],
-        "CHAT_BACKGROUND": [
-            "#120600"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#AA7050"
-        ],
-        "CHANNEL_ICON": [
-            "#CC7A4A"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#5A2A10"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#5A2A10"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#1A0A02"
-        ],
-        "KEYBOARD": [
-            "#120600"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY_100": "#FFE8D0",
-        "PRIMARY_200": "#F0C090",
-        "PRIMARY_300": "#CC9060",
-        "PRIMARY_360": "#AA6030",
-        "PRIMARY_400": "#8B4A20",
-        "PRIMARY_500": "#5A2A10",
-        "PRIMARY_600": "#120600",
-        "PRIMARY_630": "#1A0A02",
-        "PRIMARY_660": "#0E0400",
-        "PRIMARY_700": "#160800",
-        "PRIMARY_800": "#0A0300",
-        "BRAND_260": "#FF9A50",
-        "BRAND_300": "#FF8C3A",
-        "BRAND_330": "#F07A30",
-        "BRAND_345": "#E06A20",
-        "BRAND_360": "#D06018",
-        "BRAND_400": "#CC5A15",
-        "BRAND_430": "#C05010",
-        "BRAND_460": "#B0480C",
-        "BRAND_500": "#A04008",
-        "BRAND_530": "#903808",
-        "BRAND_560": "#803006",
-        "BRAND_600": "#702804",
-        "BRAND_630": "#602002",
-        "BRAND_660": "#501A02",
-        "BRAND_700": "#401400",
-        "RED_260": "#FF5A3A",
-        "RED_300": "#F04A2A",
-        "RED_330": "#E03A1A",
-        "RED_345": "#D03010",
-        "RED_360": "#CC2A0E",
-        "RED_400": "#B8240C",
-        "RED_430": "#A81E0A",
-        "RED_460": "#981808",
-        "RED_500": "#881206",
-        "RED_560": "#700E04",
-        "RED_600": "#600C04",
-        "GREEN_260": "#FF8C3A",
-        "GREEN_300": "#F07A30",
-        "GREEN_345": "#C05010",
-        "GREEN_360": "#A04008",
-        "GREEN_500": "#803006",
-        "GREEN_560": "#602002",
-        "BLUE_260": "#8B3FC0",
-        "BLUE_300": "#7A35B0",
-        "BLUE_345": "#6B2FA0",
-        "BLUE_360": "#5E2890",
-        "BLUE_500": "#4A2070",
-        "BLUE_560": "#3A1860",
-        "ORANGE_260": "#FFD070",
-        "ORANGE_300": "#FFC050",
-        "ORANGE_345": "#FFAA30",
-        "ORANGE_360": "#FF9A20",
-        "ORANGE_500": "#CC7010",
-        "YELLOW_260": "#FFE090",
-        "YELLOW_300": "#FFD070",
-        "YELLOW_345": "#FFC050",
-        "YELLOW_360": "#FFB030",
-        "YELLOW_500": "#CC8010",
-        "WHITE_500": "#FFE8D0"
-    },
-    "background": {
-        "url": "https://i.postimg.cc/PJSgkbMW/surtu-bunny.gif",
-        "alpha": 0.60,
-        "color": "#120600"
+  "name": "Surtr — Ember Pixel",
+  "description": "Arknights Surtr pixel art theme. Dark volcanic palette with ember glow accents. DARK MODE REQUIRED.",
+  "authors": [
+    {
+      "name": "EMAG"
     }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#FFD0A0"
+    ],
+    "HEADER_SECONDARY": [
+      "#CC4A1A"
+    ],
+    "TEXT_NORMAL": [
+      "#F0C090"
+    ],
+    "TEXT_MUTED": [
+      "#7A4A2A"
+    ],
+    "TEXT_LINK": [
+      "#FF8C3A"
+    ],
+    "TEXT_DANGER": [
+      "#E03A1A"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#CC7A4A"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FF9A50"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFD070"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5A3A2A"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#120600"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1A0A02"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0E0400"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#160800"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#8B3020"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0A0300"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#120600"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1A0A02"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1A0A02"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#3D150040"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#1E0A0220"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#5A2A1030"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#7A3A1A40"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#8B3020"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2A1008"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#2A1008"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "transparent"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1E0C04"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#7A4A2A"
+    ],
+    "CHAT_BACKGROUND": [
+      "#120600"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#AA7050"
+    ],
+    "CHANNEL_ICON": [
+      "#CC7A4A"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#5A2A10"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#5A2A10"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#1A0A02"
+    ],
+    "KEYBOARD": [
+      "#120600"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#FFE8D0",
+    "PRIMARY_200": "#F0C090",
+    "PRIMARY_300": "#CC9060",
+    "PRIMARY_360": "#AA6030",
+    "PRIMARY_400": "#8B4A20",
+    "PRIMARY_500": "#5A2A10",
+    "PRIMARY_600": "#120600",
+    "PRIMARY_630": "#1A0A02",
+    "PRIMARY_660": "#0E0400",
+    "PRIMARY_700": "#160800",
+    "PRIMARY_800": "#0A0300",
+    "BRAND_260": "#FF9A50",
+    "BRAND_300": "#FF8C3A",
+    "BRAND_330": "#F07A30",
+    "BRAND_345": "#E06A20",
+    "BRAND_360": "#D06018",
+    "BRAND_400": "#CC5A15",
+    "BRAND_430": "#C05010",
+    "BRAND_460": "#B0480C",
+    "BRAND_500": "#A04008",
+    "BRAND_530": "#903808",
+    "BRAND_560": "#803006",
+    "BRAND_600": "#702804",
+    "BRAND_630": "#602002",
+    "BRAND_660": "#501A02",
+    "BRAND_700": "#401400",
+    "RED_260": "#FF5A3A",
+    "RED_300": "#F04A2A",
+    "RED_330": "#E03A1A",
+    "RED_345": "#D03010",
+    "RED_360": "#CC2A0E",
+    "RED_400": "#B8240C",
+    "RED_430": "#A81E0A",
+    "RED_460": "#981808",
+    "RED_500": "#881206",
+    "RED_560": "#700E04",
+    "RED_600": "#600C04",
+    "GREEN_260": "#FF8C3A",
+    "GREEN_300": "#F07A30",
+    "GREEN_345": "#C05010",
+    "GREEN_360": "#A04008",
+    "GREEN_500": "#803006",
+    "GREEN_560": "#602002",
+    "BLUE_260": "#8B3FC0",
+    "BLUE_300": "#7A35B0",
+    "BLUE_345": "#6B2FA0",
+    "BLUE_360": "#5E2890",
+    "BLUE_500": "#4A2070",
+    "BLUE_560": "#3A1860",
+    "ORANGE_260": "#FFD070",
+    "ORANGE_300": "#FFC050",
+    "ORANGE_345": "#FFAA30",
+    "ORANGE_360": "#FF9A20",
+    "ORANGE_500": "#CC7010",
+    "YELLOW_260": "#FFE090",
+    "YELLOW_300": "#FFD070",
+    "YELLOW_345": "#FFC050",
+    "YELLOW_360": "#FFB030",
+    "YELLOW_500": "#CC8010",
+    "WHITE_500": "#FFE8D0"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/LEESIHEON1213/surtu---bunny---theme/main/surtu-bunny.gif",
+    "alpha": 0.6,
+    "color": "#120600"
+  }
 }
